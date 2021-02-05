@@ -1,0 +1,9 @@
+main: me.kfir123116.NPC.Main
+name: NPC
+version: 2.2
+author: kfir123116
+
+commands:
+ createnpc:
+  usage: /<command>
+  description: Run commands
